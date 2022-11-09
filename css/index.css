@@ -1,3 +1,16 @@
-.col-card{margin:auto;}
-h1{text-align: center;}
-.logo-banco{max-width: 98%;margin: auto;}
+.contenedor {
+    max-width: 95%;
+    margin: auto;
+}
+
+.row {
+    justify-content: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+}
